@@ -1,0 +1,3378 @@
+{
+"checked": "2026-10-03",
+"previous": "2026-09-28",
+"rows": [
+{
+"id": 0,
+"g": "Protein",
+"item": "Chicken breast",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Perdue Harvestland free-range tray · no organic raw breast at this store",
+"note": "not organic",
+"p": 13.88,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.12,
+"low": 5.12,
+"prev": 5.12,
+"title": "Perdue Harvestland, Free Range, Fresh Boneless Chicken Breast, 1.50-4.30 lb. Tray",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Perdue no-antibiotics tray · no organic raw breast",
+"note": "not organic",
+"p": 4.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.99,
+"low": 4.99
+},
+"C": {
+"k": "alt",
+"prod": "Kirkland fresh boneless · organic not stocked at Glen Burnie",
+"note": "not organic",
+"p": 25.12,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.99,
+"low": 2.99,
+"prev": 2.99,
+"title": "Kirkland Signature Fresh Boneless Skinless Chicken Breasts, 6 lb Avg Wt",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic family pack (Whole Foods)",
+"note": "",
+"p": 24.26,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.99,
+"low": 6.64,
+"store": "Whole Foods",
+"prev": 6.64,
+"title": "365 by Whole Foods Market Organic Boneless Skinless Chicken Breast",
+"was": null
+}
+},
+"x": {
+"store": "Aldi",
+"prod": "Simply Nature organic",
+"p": 7.48,
+"q": 1,
+"up": 4.99,
+"low": 4.99,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 4.99,
+"title": "Simply Nature Organic Chicken Breasts, per lb",
+"was": null
+},
+"best": [
+"A"
+]
+},
+{
+"id": 1,
+"g": "Protein",
+"item": "Chicken thighs, boneless",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Perdue Harvestland free-range tray",
+"note": "not organic",
+"p": 12.02,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.94,
+"low": 3.94,
+"prev": 3.94,
+"title": "Perdue Harvestland, Free Range, Fresh Boneless Chicken Thigh, 1.70-4.00 lb. Tray",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Perdue no-antibiotics thigh filets",
+"note": "not organic",
+"p": 3.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.99,
+"low": 3.99
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, ~5.5 lb pack",
+"note": "",
+"p": 32.94,
+"q": 5.5,
+"est": true,
+"seen": "2026-10-03",
+"up": 5.99,
+"low": 5.99,
+"prev": 5.99,
+"title": "Kirkland Signature Organic Boneless Skinless Chicken Thighs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic family pack",
+"note": "",
+"p": 30.11,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.49,
+"low": 7.49,
+"store": "Whole Foods",
+"prev": 7.49,
+"title": "365 by Whole Foods Market Organic Boneless Skinless Chicken Thighs",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 2,
+"g": "Protein",
+"item": "Ground beef 85/15",
+"tier": "organic grass-fed",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Marketside organic grass-fed, 3 × 1 lb",
+"note": "",
+"p": 20.97,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.99,
+"low": 6.99,
+"prev": 6.99,
+"title": "Marketside Organic Grass-Fed Ground Beef, 85% Lean/15% Fat, 1 lb, 3 Count",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic 100% grass-fed, 1 lb",
+"note": "",
+"p": 7.69,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 7.69,
+"low": 7.69
+},
+"C": {
+"k": "alt",
+"prod": "Miami Beef grass-fed 4 lb · not organic; organic only as a 12 lb online box at $15.42/lb",
+"note": "not organic",
+"p": 24.99,
+"q": 4,
+"est": true,
+"seen": "2026-10-03",
+"up": 6.25,
+"low": 6.25,
+"prev": 6.25,
+"title": "Miami Beef Grass-Fed Ground Beef, 4 lbs 4 lb",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Organic Rancher 100% grass-fed, 1 lb",
+"note": "",
+"p": 8.49,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 8.49,
+"low": 8.49,
+"store": "Whole Foods",
+"prev": 9.49,
+"title": "Organic Rancher, Organic Ground Beef 85% Lean/15% Fat, 100% Grass Fed & Grass Finished, USDA Organic, Pasture Raised Free Range, 1 lb",
+"was": null
+}
+},
+"x": {
+"store": "Aldi",
+"prod": "Simply Nature organic grass-fed",
+"p": 5.99,
+"q": 1,
+"up": 5.99,
+"low": 5.99,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 5.99,
+"title": "Simply Nature Organic Grass Fed 85% Lean Ground Beef 1 lb",
+"was": null
+},
+"best": [
+"W"
+]
+},
+{
+"id": 3,
+"g": "Protein",
+"item": "Ground beef, 90–93% lean",
+"tier": "organic grass-fed",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Marketside organic grass-fed 93/7, 3 × 1 lb",
+"note": "",
+"p": 23.48,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.83,
+"low": 7.83,
+"prev": 7.83,
+"title": "Marketside Organic Grass-Fed Ground Beef, 93% Lean/ 7% Fat, 1 lb, 3 Count",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic grass-fed 90/10, 1 lb",
+"note": "",
+"p": 8.19,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 8.19,
+"low": 8.19
+},
+"C": {
+"k": "none",
+"prod": "Not stocked in the warehouse",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "Organic Rancher 93/7, 1 lb",
+"note": "",
+"p": 9.49,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 9.49,
+"low": 9.49,
+"store": "Whole Foods",
+"prev": 10.49,
+"title": "Organic Rancher, Organic Ground Beef 93% Lean/7% Fat, 100% Grass Fed & Grass Finished, USDA Organic, Pasture Raised Free Range, 16 oz",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 4,
+"g": "Protein",
+"item": "Ground turkey",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Shady Brook 93/7, 1 lb",
+"note": "not organic",
+"p": 5.56,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.56,
+"low": 5.56,
+"prev": 5.56,
+"title": "Shady Brook Farms Ground Turkey 93/ 7%, Tray, 1 Pound, 22 Grams of Protein per Serving",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather 93/7, 1 lb",
+"note": "not organic",
+"p": 5.29,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 5.29,
+"low": 5.29
+},
+"C": {
+"k": "ok",
+"prod": "Organic, 2 × 24 oz",
+"note": "",
+"p": 19.99,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 6.66,
+"low": 6.66,
+"prev": 6.66,
+"title": "Organic Ground Turkey, 24 oz, 2-count 3 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Koch's Turkey Farm organic, 1 lb",
+"note": "",
+"p": 8.99,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 8.99,
+"low": 8.99,
+"store": "Whole Foods",
+"prev": 8.99,
+"title": "Kochs Turkey Farm, Turkey Ground Tray Pack Organic Step 1, 16 Ounce",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 5,
+"g": "Protein",
+"item": "Eggs, pasture-raised",
+"tier": "pasture-raised",
+"unit": "egg",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Vital Farms, 12",
+"note": "",
+"p": 6.57,
+"q": 12,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.55,
+"low": 0.55,
+"prev": 0.55,
+"title": "Vital Farms Pasture Raised Grade A Brown Eggs, Large, 12 Ct",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Vital Farms, 18",
+"note": "",
+"p": 9.89,
+"q": 18,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.55,
+"low": 0.55,
+"prev": 0.6,
+"title": "Vital Farms Pasture Raised Large Eggs - 18ct",
+"was": 10.79
+},
+"C": {
+"k": "alt",
+"prod": "Kirkland organic free-range, 24 · no pasture-raised",
+"note": "free-range only",
+"p": 8.39,
+"q": 24,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.35,
+"low": 0.35,
+"prev": 0.35,
+"title": "Kirkland Signature Free-Range Organic Eggs, Large, 24-count",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Whole Foods Market Pasture, 18",
+"note": "",
+"p": 7.99,
+"q": 18,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.44,
+"low": 0.44,
+"store": "Whole Foods",
+"stale": true
+}
+},
+"x": {
+"store": "Sprouts",
+"prod": "Sprouts Pasture Raised, 18",
+"p": 7.29,
+"q": 18,
+"up": 0.41,
+"low": 0.41,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 0.41,
+"title": "Sprouts Pasture Raised Large Brown Grade A Eggs 18 ct",
+"was": null
+},
+"best": [
+"A"
+]
+},
+{
+"id": 6,
+"g": "Protein",
+"item": "Eggs, organic and pasture-raised",
+"tier": "organic + pasture",
+"unit": "egg",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Pete & Gerry's organic pasture-raised, 12",
+"note": "",
+"p": 7.66,
+"q": 12,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.64,
+"low": 0.64,
+"prev": 0.64,
+"title": "Pete & Gerry's Organic Pasture Raised Grade A Lrg 12 Ct",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Vital Farms organic pasture-raised, 18",
+"note": "",
+"p": 12.79,
+"q": 18,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.71,
+"low": 0.66,
+"prev": 0.66,
+"title": "Vital Farms Pasture Raised Organic Large Eggs - 18ct",
+"was": null
+},
+"C": {
+"k": "none",
+"prod": "No pasture-raised line",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "Pete & Gerry's organic pasture-raised, 12",
+"note": "",
+"p": 6.66,
+"q": 12,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.56,
+"low": 0.56,
+"store": "Whole Foods",
+"prev": 0.56,
+"title": "Pete & Gerry's, Organic Pasture Raised Eggs Large 12 Ct",
+"was": 7.49
+}
+},
+"x": {
+"store": "Sprouts",
+"prod": "Sprouts Organic Pasture Raised, 24",
+"p": 12.99,
+"q": 24,
+"up": 0.54,
+"low": 0.54,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 0.54,
+"title": "Sprouts Organic Pasture Raised Large Brown Grade A Eggs 24 ct",
+"was": null
+},
+"best": [
+"A"
+]
+},
+{
+"id": 7,
+"g": "Protein",
+"item": "Liquid egg whites",
+"tier": "organic",
+"unit": "32 oz",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Great Value cage-free, 32 oz",
+"note": "not organic",
+"p": 6.17,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.17,
+"low": 6.17,
+"prev": 6.17,
+"title": "Great Value Cage-Free 100% Liquid Egg Whites, 32 oz",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather cage-free, 32 oz",
+"note": "not organic",
+"p": 6.59,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 6.59,
+"low": 6.59
+},
+"C": {
+"k": "none",
+"prod": "Not stocked",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 16 oz",
+"note": "",
+"p": 4.89,
+"q": 0.5,
+"est": false,
+"seen": "2026-10-03",
+"up": 9.78,
+"low": 9.78,
+"store": "Whole Foods",
+"prev": 9.78,
+"title": "365 by Whole Foods Market, Organic Egg Whites, 16 oz",
+"was": null
+}
+},
+"x": {
+"store": "Sprouts",
+"prod": "Sprouts organic, 16 oz",
+"p": 4.49,
+"q": 0.5,
+"up": 8.98,
+"low": 7.99,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 7.99,
+"title": "Sprouts Organic 100% Liquid Egg Whites 16 oz",
+"was": null
+},
+"best": [
+"A"
+]
+},
+{
+"id": 8,
+"g": "Protein",
+"item": "Wild sockeye salmon",
+"tier": "wild-caught",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Marketside wild sockeye, frozen 12 oz",
+"note": "",
+"p": 12.96,
+"q": 0.75,
+"est": false,
+"seen": "2026-10-03",
+"up": 17.28,
+"low": 17.28,
+"prev": 17.28,
+"title": "Marketside Wild Caught Skin-On Alaska Sockeye Salmon Fillets, 12 oz (Frozen)",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather Alaska sockeye, frozen 16 oz",
+"note": "",
+"p": 14.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 14.99,
+"low": 14.99
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland wild sockeye fillet, fresh",
+"note": "",
+"p": 31.98,
+"q": 1,
+"est": true,
+"seen": "2026-10-03",
+"up": 15.99,
+"low": 15.99,
+"prev": 15.99,
+"title": "Kirkland Signature Wild Sockeye Salmon Fillet",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 sockeye, frozen 32 oz",
+"note": "",
+"p": 34.99,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 17.5,
+"low": 17.5,
+"store": "Whole Foods",
+"prev": 17.5,
+"title": "365 by Whole Foods Market, Sockeye Salmon Fillet, 32 oz",
+"was": null
+}
+},
+"best": [
+"T"
+]
+},
+{
+"id": 9,
+"g": "Protein",
+"item": "Turkey bacon",
+"tier": "uncured",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Butterball lower-sodium, 12 oz · smoke-cured",
+"note": "cured",
+"p": 3.48,
+"q": 0.75,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.64,
+"low": 4.64,
+"prev": 4.64,
+"title": "Butterball Lower Sodium Smoke-Cured Turkey Bacon, 12 oz, Gluten Free, No MSG",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather applewood uncured, 8 oz",
+"note": "",
+"p": 4.49,
+"q": 0.5,
+"est": false,
+"seen": "2026-09-28",
+"up": 8.98,
+"low": 8.98
+},
+"C": {
+"k": "ok",
+"prod": "Columbus uncured, 2.5 lb",
+"note": "",
+"p": 15.99,
+"q": 2.5,
+"est": true,
+"seen": "2026-10-03",
+"up": 6.4,
+"low": 6.4,
+"prev": 6.4,
+"title": "Columbus Uncured Turkey Bacon, Hickory Smoked, Sliced, 2.5 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 uncured, no antibiotics, 12 oz",
+"note": "",
+"p": 6.49,
+"q": 0.75,
+"est": false,
+"seen": "2026-10-03",
+"up": 8.65,
+"low": 8.65,
+"store": "Whole Foods",
+"prev": 8.65,
+"title": "365 by Whole Foods Market 365 Turkey Bacon Uncured Sugar Free ABF, 12 OZ",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 10,
+"g": "Protein",
+"item": "Creatine monohydrate",
+"tier": "creatine only, nothing added",
+"unit": "5 g",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Equate, 15.87 oz (450 g)",
+"note": "",
+"p": 13.12,
+"q": 90,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.15,
+"low": 0.15,
+"prev": 0.15,
+"title": "Equate Creatine Monohydrate Dietary Supplement, Unflavored, 5 g, 15.87 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Optimum Nutrition, 600 g",
+"note": "",
+"p": 28.99,
+"q": 120,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.24,
+"low": 0.24
+},
+"C": {
+"k": "ok",
+"prod": "Orgain micronized, 1.48 lb (671 g)",
+"note": "",
+"p": 14.99,
+"q": 134.2,
+"est": true,
+"seen": "2026-09-28",
+"up": 0.11,
+"low": 0.11,
+"stale": true
+},
+"A": {
+"k": "ok",
+"prod": "BulkSupplements micronized, 1 kg",
+"note": "",
+"p": 27.97,
+"q": 200,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.14,
+"low": 0.14,
+"store": "Amazon",
+"prev": 0.14,
+"title": "BulkSupplements, com Creatine Monohydrate Powder - Micronized Creatine Powder, Unflavored, 1kg (2.2 lbs)",
+"was": 29.97
+}
+},
+"x": {
+"store": "Aldi",
+"prod": "Elevation, 300 g (the one in your Aldi save)",
+"p": 9.89,
+"q": 60,
+"up": 0.16,
+"low": 0.16,
+"seen": "2026-10-03",
+"beats": false,
+"prev": 0.16,
+"title": "Elevation Creatine, Unflavored 10.58 oz",
+"was": null
+},
+"best": [
+"C"
+]
+},
+{
+"id": 11,
+"g": "Protein",
+"item": "Whey protein",
+"tier": "grass-fed",
+"unit": "oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Levels grass-fed, 23.7 oz (strawberry)",
+"note": "",
+"p": 40.12,
+"q": 23.7,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.69,
+"low": 1.69,
+"prev": 1.69,
+"title": "Levels Grass Fed Whey Protein Powder, No Artificials, 24g of Protein, Strawberry, 1.48 lbs",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Levels grass-fed, 23.7 oz",
+"note": "",
+"p": 44.99,
+"q": 23.7,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.9,
+"low": 1.9
+},
+"C": {
+"k": "alt",
+"prod": "Ascent native whey 4.25 lb, delivered · not labelled grass-fed",
+"note": "not grass-fed label",
+"p": 65.99,
+"q": 68,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.97,
+"low": 0.97,
+"prev": 0.97,
+"title": "Ascent 100% Whey, Native Whey Protein Blend, Unflavored, 4.25 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Carlyle grass-fed, 5 lb",
+"note": "",
+"p": 104.99,
+"q": 80,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.31,
+"low": 1.21,
+"store": "Amazon",
+"prev": 1.21,
+"title": "Carlyle Grass Fed Whey Protein Powder | 5lb (80 oz) | Unflavored",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 12,
+"g": "Dairy",
+"item": "Greek yogurt, plain",
+"tier": "organic",
+"unit": "32 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Stonyfield organic nonfat, 32 oz",
+"note": "",
+"p": 7.98,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.98,
+"low": 7.98,
+"prev": 7.98,
+"title": "Stonyfield Organic Greek Nonfat Yogurt, Plain, 32 oz.",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Stonyfield organic fat-free, 32 oz",
+"note": "",
+"p": 8.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 8.99,
+"low": 8.99
+},
+"C": {
+"k": "none",
+"prod": "No plain Greek tub at this warehouse",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic nonfat, 32 oz",
+"note": "",
+"p": 6.99,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.99,
+"low": 6.99,
+"store": "Whole Foods",
+"prev": 6.99,
+"title": "365 by Whole Foods Market, Organic Greek Nonfat Yogurt, Plain, 32 oz",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 13,
+"g": "Dairy",
+"item": "Cottage cheese",
+"tier": "organic",
+"unit": "16 oz",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Daisy 4%, 24 oz · milk, cream, salt only",
+"note": "clean, not organic",
+"p": 4.97,
+"q": 1.5,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.31,
+"low": 3.31,
+"prev": 3.31,
+"title": "Daisy Pure and Natural Cottage Cheese, 4% Milkfat, 24 oz (1.5 lb) Tub (Refrigerated) - 13g of Protein per Serving",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good Culture 2%, 16 oz",
+"note": "not organic",
+"p": 3.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.99,
+"low": 3.99
+},
+"C": {
+"k": "alt",
+"prod": "The Honest Cow 4%, 3 lb",
+"note": "not labelled organic",
+"p": 6.99,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.33,
+"low": 2.33,
+"prev": 2.33,
+"title": "The Honest Cow 4% Cottage Cheese, 3 lbs 3 lb",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 16 oz",
+"note": "",
+"p": 4.49,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.49,
+"low": 4.49,
+"store": "Whole Foods",
+"prev": 4.49,
+"title": "365 by Whole Foods Market, Organic Cottage Cheese, 16 oz",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 14,
+"g": "Dairy",
+"item": "Milk",
+"tier": "organic",
+"unit": "half gal",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, gallon",
+"note": "",
+"p": 7.87,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.94,
+"low": 3.94,
+"prev": 3.94,
+"title": "Great Value Organic Whole Vitamin D Milk, Gallon, 128 fl oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, half gallon",
+"note": "",
+"p": 3.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.99,
+"low": 3.99
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic A2, 3 × half gallon",
+"note": "",
+"p": 13.99,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 4.66,
+"low": 4.66,
+"prev": 4.66,
+"title": "Kirkland Signature Organic A2 Whole Milk, Half Gallon, 3-count 3 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, gallon",
+"note": "",
+"p": 7.99,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.0,
+"low": 4.0,
+"store": "Whole Foods",
+"prev": 4.0,
+"title": "365 by Whole Foods Market, Organic Whole Milk, 128 oz",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 15,
+"g": "Dairy",
+"item": "Shredded mozzarella",
+"tier": "organic",
+"unit": "8 oz",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Great Value, 8 oz",
+"note": "not organic",
+"p": 1.97,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.97,
+"low": 1.97,
+"prev": 1.97,
+"title": "Great Value Low-Moisture Part-Skim Mozzarella Shredded Cheese, 8 oz Bag",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather, 8 oz",
+"note": "not organic",
+"p": 1.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.99,
+"low": 1.99
+},
+"C": {
+"k": "alt",
+"prod": "Kirkland, 2 × 2.5 lb",
+"note": "not organic",
+"p": 12.69,
+"q": 10,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.27,
+"low": 1.27,
+"prev": 1.27,
+"title": "Kirkland Signature Shredded Mozzarella Cheese, 2.5 lbs, 2-count 2 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 16 oz",
+"note": "",
+"p": 8.99,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.5,
+"low": 4.5,
+"store": "Whole Foods",
+"prev": 4.5,
+"title": "365 by Whole Foods Market, Organic Mozzarella Shred, 16 Ounce",
+"was": null
+}
+},
+"x": {
+"store": "Aldi",
+"prod": "Simply Nature organic, 6 oz",
+"p": 3.09,
+"q": 0.75,
+"up": 4.12,
+"low": 4.12,
+"seen": "2026-10-03",
+"beats": true,
+"prev": 4.12,
+"title": "Simply Nature Shredded Organic Mozzarella Cheese 6 oz",
+"was": null
+},
+"best": [
+"A"
+]
+},
+{
+"id": 16,
+"g": "Dairy",
+"item": "Parmesan",
+"tier": "Parmigiano Reggiano",
+"unit": "oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Parmigiano Reggiano wedge, 6 oz",
+"note": "",
+"p": 7.96,
+"q": 6,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.33,
+"low": 1.33,
+"prev": 1.33,
+"title": "Marketside Parmigiano Reggiano Cheese Wedge, 6 oz, Aged 24 Months, Imported from Italy, Parmesan Cheese Wedge",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "BelGioioso domestic wedge, 8 oz",
+"note": "not Parmigiano",
+"p": 6.19,
+"q": 8,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.77,
+"low": 0.77
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland Parmigiano Reggiano wedge, ~1.5 lb",
+"note": "",
+"p": 23.99,
+"q": 24,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.0,
+"low": 1.0,
+"prev": 1.0,
+"title": "Kirkland Signature Italian Parmigiano Reggiano",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Organic Valley organic shredded, 4 oz",
+"note": "",
+"p": 6.79,
+"q": 4,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.7,
+"low": 1.7,
+"store": "Whole Foods",
+"prev": 1.7,
+"title": "Parmesan Cheese — Shredded — Organic, Pasture Raised, Non GMO — 4 oz",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 17,
+"g": "Dairy",
+"item": "Cream cheese",
+"tier": "organic",
+"unit": "8 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Organic Valley organic, 8 oz",
+"note": "",
+"p": 3.28,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.28,
+"low": 3.28,
+"stale": true
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather block, 8 oz",
+"note": "not organic",
+"p": 1.69,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.69,
+"low": 1.69
+},
+"C": {
+"k": "alt",
+"prod": "Philadelphia spread, 48 oz",
+"note": "not organic",
+"p": 6.29,
+"q": 6,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.05,
+"low": 1.05,
+"prev": 1.05,
+"title": "Philadelphia Original Cream Cheese Spread, 48 oz",
+"was": 8.7
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 8 oz",
+"note": "",
+"p": 4.19,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.19,
+"low": 4.19,
+"store": "Whole Foods",
+"prev": 4.19,
+"title": "365 by Whole Foods Market, Organic Cream Cheese, 8 oz",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 18,
+"g": "Dairy",
+"item": "Butter",
+"tier": "grass-fed",
+"unit": "8 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Kerrygold block, 8 oz",
+"note": "",
+"p": 4.68,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.68,
+"low": 4.68,
+"prev": 4.68,
+"title": "Kerrygold Grass-Fed Salted Pure Irish Butter, 8 oz.",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Kerrygold block, 8 oz",
+"note": "",
+"p": 4.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.99,
+"low": 4.99
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland grass-fed, 4 × 8 oz",
+"note": "",
+"p": 10.99,
+"q": 4,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.75,
+"low": 2.75,
+"prev": 2.75,
+"title": "Kirkland Signature Grass-Fed Butter, 8 oz, 4-count 4 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Kerrygold, 8 oz",
+"note": "",
+"p": 5.49,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.49,
+"low": 5.49,
+"store": "Whole Foods",
+"prev": 5.49,
+"title": "Pure Irish Butter, Salted, 8 oz",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 19,
+"g": "Pantry",
+"item": "Jasmine rice",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 3 × 2 lb",
+"note": "",
+"p": 13.29,
+"q": 6,
+"est": false,
+"seen": "2026-09-28",
+"up": 2.22,
+"low": 2.22,
+"stale": true
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 30 oz",
+"note": "",
+"p": 4.39,
+"q": 1.875,
+"est": false,
+"seen": "2026-09-28",
+"up": 2.34,
+"low": 2.34
+},
+"C": {
+"k": "alt",
+"prod": "Kirkland Thai Hom Mali, 25 lb · not organic",
+"note": "not organic",
+"p": 20.99,
+"q": 25,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.84,
+"low": 0.84,
+"prev": 0.84,
+"title": "Kirkland Signature, Thai Hom Mali Jasmine Rice, 25 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 5 lb",
+"note": "",
+"p": 12.99,
+"q": 5,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.6,
+"low": 2.6,
+"store": "Whole Foods",
+"prev": 2.6,
+"title": "365 by Whole Foods Market Organic Jasmine Rice, 80 OZ",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 20,
+"g": "Pantry",
+"item": "Pasta",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Great Value, 16 oz",
+"note": "not organic",
+"p": 0.68,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.68,
+"low": 0.68,
+"prev": 0.68,
+"title": "Great Value Rigatoni, 16 oz",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather, 16 oz",
+"note": "not organic",
+"p": 1.29,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.29,
+"low": 1.29
+},
+"C": {
+"k": "none",
+"prod": "No organic dry pasta",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic penne rigate, 16 oz",
+"note": "",
+"p": 1.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.99,
+"low": 1.99,
+"store": "Whole Foods",
+"stale": true
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 21,
+"g": "Pantry",
+"item": "All-purpose flour",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 5 lb",
+"note": "",
+"p": 5.97,
+"q": 5,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.19,
+"low": 1.19,
+"prev": 1.19,
+"title": "Great Value Organic All-Purpose Wheat Flour, 5 lb Bag",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 5 lb",
+"note": "",
+"p": 6.29,
+"q": 5,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.26,
+"low": 1.26
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, 2 × 10 lb, delivered",
+"note": "",
+"p": 19.99,
+"q": 20,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.0,
+"low": 1.0,
+"prev": 1.0,
+"title": "Kirkland Signature Organic Unbleached All Purpose Flour, 10 lbs, 2-count",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 5 lb",
+"note": "",
+"p": 6.49,
+"q": 5,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.3,
+"low": 1.3,
+"store": "Whole Foods",
+"prev": 1.3,
+"title": "365 by Whole Foods Market, Organic All Purpose Flour, 80 Ounce",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 22,
+"g": "Pantry",
+"item": "Chia seeds",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 32 oz",
+"note": "",
+"p": 10.78,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.39,
+"low": 5.39,
+"prev": 5.39,
+"title": "Great Value Organic Chia Seeds, 32 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Bob's Red Mill organic, 12 oz",
+"note": "",
+"p": 8.99,
+"q": 0.75,
+"est": false,
+"seen": "2026-09-28",
+"up": 11.99,
+"low": 11.99
+},
+"C": {
+"k": "ok",
+"prod": "Mayorga organic, 3 lb",
+"note": "",
+"p": 8.89,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.96,
+"low": 2.96,
+"prev": 2.96,
+"title": "Mayorga Organic Chia Seeds, 3 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Mayorga organic, 3 lb",
+"note": "",
+"p": 12.99,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.33,
+"low": 4.33,
+"store": "Amazon",
+"prev": 4.33,
+"title": "Mayorga, Organic Raw Chia Seeds, 3lb Resealable Bag",
+"was": 14.0
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 23,
+"g": "Pantry",
+"item": "Peanut butter",
+"tier": "organic, peanuts + salt only",
+"unit": "16 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic stir, 16 oz",
+"note": "",
+"p": 4.52,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.52,
+"low": 4.52,
+"prev": 4.52,
+"title": "Great Value Organic Creamy Stir Peanut Butter, 16 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic stir, 28 oz",
+"note": "",
+"p": 7.29,
+"q": 1.75,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.17,
+"low": 4.17
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, 2 × 28 oz",
+"note": "",
+"p": 9.79,
+"q": 3.5,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.8,
+"low": 2.8,
+"prev": 2.8,
+"title": "Kirkland Signature Organic Peanut Butter, 28 oz, 2-count 2 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic unsweetened, 16 oz",
+"note": "",
+"p": 4.99,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.96,
+"low": 4.96,
+"store": "Whole Foods",
+"prev": 4.99,
+"title": "365 by Whole Foods Market, Organic Creamy Peanut Butter, Unsweetened & Unsalted, Stir and Enjoy, 16 Ounce",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 24,
+"g": "Pantry",
+"item": "Extra virgin olive oil",
+"tier": "organic",
+"unit": "500 ml",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 51 fl oz",
+"note": "",
+"p": 20.72,
+"q": 3.017751479289941,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.87,
+"low": 6.87,
+"prev": 6.87,
+"title": "Great Value Organic Extra Virgin Olive Oil, 51 fl oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 16.9 fl oz",
+"note": "",
+"p": 7.79,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 7.79,
+"low": 7.79
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, 2 L",
+"note": "",
+"p": 15.59,
+"q": 4,
+"est": true,
+"seen": "2026-10-03",
+"up": 3.9,
+"low": 3.9,
+"prev": 3.9,
+"title": "Kirkland Signature, Organic Extra Virgin Olive Oil, 2 L",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 33.8 fl oz",
+"note": "",
+"p": 15.49,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.75,
+"low": 7.75,
+"store": "Whole Foods",
+"prev": 7.75,
+"title": "365 by Whole Foods Market, Organic Extra Virgin Mediterranean Olive Oil, 33.8 Fl Oz",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 25,
+"g": "Pantry",
+"item": "Chicken broth",
+"tier": "organic",
+"unit": "32 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 32 oz",
+"note": "",
+"p": 1.98,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.98,
+"low": 1.98,
+"prev": 1.98,
+"title": "Great Value Organic Gluten-Free Chicken Broth, 32 oz Carton, Shelf-Stable",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Pacific Foods organic, 32 oz",
+"note": "",
+"p": 3.19,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.19,
+"low": 3.19
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic stock, 6 × 32 oz",
+"note": "",
+"p": 9.79,
+"q": 6,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.63,
+"low": 1.63,
+"prev": 1.63,
+"title": "Kirkland Signature, Organic Chicken Stock, 32 fl oz, 6-Count 6 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 48 oz",
+"note": "",
+"p": 3.49,
+"q": 1.5,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.33,
+"low": 2.33,
+"store": "Whole Foods",
+"prev": 2.33,
+"title": "365 by Whole Foods Market, Organic Chicken Broth, 48 Fl Oz",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 26,
+"g": "Pantry",
+"item": "Black beans, 15 oz can",
+"tier": "organic",
+"unit": "can",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic",
+"note": "",
+"p": 0.97,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.97,
+"low": 0.97,
+"prev": 0.97,
+"title": "Great Value Organic Black Beans, Canned, 15 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic low-sodium",
+"note": "",
+"p": 0.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.99,
+"low": 0.99
+},
+"C": {
+"k": "alt",
+"prod": "Goya, 8 × 15.5 oz · not organic",
+"note": "not organic",
+"p": 7.99,
+"q": 8,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.0,
+"low": 1.0,
+"prev": 1.0,
+"title": "Goya, Black Beans, 15.5 oz, 8-Count 8 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic",
+"note": "",
+"p": 1.59,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.59,
+"low": 1.59,
+"store": "Whole Foods",
+"prev": 1.59,
+"title": "365 by Whole Foods Market, Organic Black Beans, 15 Ounce",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 27,
+"g": "Pantry",
+"item": "Chickpeas, 15 oz can",
+"tier": "organic",
+"unit": "can",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic",
+"note": "",
+"p": 0.97,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.97,
+"low": 0.97,
+"prev": 0.97,
+"title": "Great Value Organic Chick Pea Garbanzo Beans, 15 oz Can",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic low-sodium",
+"note": "",
+"p": 0.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.99,
+"low": 0.99
+},
+"C": {
+"k": "alt",
+"prod": "Goya, 8 × 15.5 oz · not organic",
+"note": "not organic",
+"p": 7.99,
+"q": 8,
+"est": true,
+"seen": "2026-10-03",
+"up": 1.0,
+"low": 1.0,
+"prev": 1.0,
+"title": "Goya, Chick Peas, 15.5 oz, 8-Count 8 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 15.5 oz",
+"note": "",
+"p": 1.59,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.59,
+"low": 1.59,
+"store": "Whole Foods",
+"prev": 1.59,
+"title": "365 by Whole Foods Market, Organic Garbanzo Beans, 15.5 Ounce",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 28,
+"g": "Pantry",
+"item": "Crushed tomatoes",
+"tier": "organic",
+"unit": "28 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic crushed with basil, 28 oz",
+"note": "",
+"p": 2.38,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.38,
+"low": 2.38,
+"prev": 2.38,
+"title": "Great Value Organic Crushed Tomatoes with Basil, 28 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Bianco DiNapoli organic, 28 oz",
+"note": "",
+"p": 4.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.99,
+"low": 4.99
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic diced, 8 × 14.5 oz, delivered · diced, not crushed",
+"note": "",
+"p": 9.99,
+"q": 4.142857142857143,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.41,
+"low": 2.41,
+"prev": 2.41,
+"title": "Kirkland Signature, Organic Diced Tomatoes, 14.5 oz, 8-Count",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic crushed with basil, 28 oz",
+"note": "",
+"p": 3.19,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.19,
+"low": 3.19,
+"store": "Whole Foods",
+"prev": 3.19,
+"title": "365 by Whole Foods Market, Organic Crushed Tomatoes With Basil, 28 Ounce",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 29,
+"g": "Pantry",
+"item": "Sweet corn",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 15 oz can",
+"note": "",
+"p": 1.82,
+"q": 0.9375,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.94,
+"low": 1.94,
+"prev": 1.94,
+"title": "Great Value Organic Whole Kernel Corn, 15 oz Can",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Good & Gather canned, 15.25 oz",
+"note": "not organic",
+"p": 0.79,
+"q": 0.953125,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.83,
+"low": 0.83
+},
+"C": {
+"k": "none",
+"prod": "No organic corn",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic frozen, 16 oz",
+"note": "",
+"p": 3.39,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.39,
+"low": 3.39,
+"store": "Whole Foods",
+"stale": true
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 30,
+"g": "Pantry",
+"item": "Red enchilada sauce",
+"tier": "organic",
+"unit": "15 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Smash Kitchen organic, 2 × 15 oz",
+"note": "",
+"p": 7.94,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.97,
+"low": 3.97,
+"prev": 3.97,
+"title": "(2 pack) Smash Kitchen Organic Red Enchilada Sauce, 15 oz",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Siete, 15 oz · avocado oil, not organic",
+"note": "not organic",
+"p": 4.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.99,
+"low": 4.99
+},
+"C": {
+"k": "none",
+"prod": "Not stocked",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 15.5 oz",
+"note": "",
+"p": 3.89,
+"q": 1.0333333333333334,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.76,
+"low": 3.76,
+"store": "Whole Foods",
+"prev": 3.76,
+"title": "365 by Whole Foods Market, Organic Red Enchilada Sauce, 15.5 Ounce",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 31,
+"g": "Pantry",
+"item": "Corn tortillas",
+"tier": "organic",
+"unit": "10 oz",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Mission Organics flour tortillas, 6 ct · flour, not corn",
+"note": "flour",
+"p": 2.78,
+"q": null,
+"est": false,
+"seen": "2026-10-03",
+"up": null,
+"low": null,
+"title": "Mission Organics Flour Tortillas, Soft Taco Size, 6 Count"
+},
+"T": {
+"k": "alt",
+"prod": "Siete Maiz yellow corn, 9.7 oz",
+"note": "not organic",
+"p": 4.69,
+"q": 0.97,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.84,
+"low": 4.84
+},
+"C": {
+"k": "none",
+"prod": "No organic tortillas",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "La Tortilla Factory organic corn, 8.46 oz",
+"note": "",
+"p": 3.19,
+"q": 0.846,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.77,
+"low": 3.77,
+"store": "Whole Foods",
+"prev": 3.77,
+"title": "La Tortilla Factory, Tortillas Corn Organic, 8.46 Ounce",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 32,
+"g": "Pantry",
+"item": "Raw honey",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic strained raw, 16 oz",
+"note": "",
+"p": 6.27,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.27,
+"low": 6.27,
+"prev": 6.27,
+"title": "Great Value Organic Strained Raw Honey, 16 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic raw unfiltered, 12 oz",
+"note": "",
+"p": 6.49,
+"q": 0.75,
+"est": false,
+"seen": "2026-09-28",
+"up": 8.65,
+"low": 8.65
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic raw, 3 × 24 oz",
+"note": "",
+"p": 19.69,
+"q": 4.5,
+"est": true,
+"seen": "2026-10-03",
+"up": 4.37,
+"low": 4.37,
+"prev": 4.38,
+"title": "Kirkland Signature Organic Raw Honey, 24 oz, 3-count 3 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic raw wildflower, 16 oz",
+"note": "",
+"p": 6.89,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.89,
+"low": 6.89,
+"store": "Whole Foods",
+"prev": 6.89,
+"title": "365 by Whole Foods Market Organic Raw Wildflower Honey, 16 OZ",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 33,
+"g": "Pantry",
+"item": "Mayonnaise",
+"tier": "100% avocado oil",
+"unit": "12 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Chosen Foods, 12 oz",
+"note": "",
+"p": 7.57,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.57,
+"low": 7.57,
+"prev": 7.57,
+"title": "Chosen Foods 100% Pure Avocado Oil Classic Mayo 12 oz Jar",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Chosen Foods, 12 oz",
+"note": "",
+"p": 7.99,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 7.99,
+"low": 7.99
+},
+"C": {
+"k": "ok",
+"prod": "Chosen Foods, 32 oz",
+"note": "",
+"p": 9.99,
+"q": 2.6666666666666665,
+"est": true,
+"seen": "2026-10-03",
+"up": 3.75,
+"low": 3.75,
+"prev": 3.75,
+"title": "Chosen Foods Avocado Oil Classic Mayo, 32 fl oz",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Primal Kitchen, 12 oz",
+"note": "",
+"p": 9.49,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 9.49,
+"low": 9.49,
+"store": "Whole Foods",
+"prev": 9.49,
+"title": "Primal Kitchen, Mayo made with Avocado Oil, Whole30 Approved, Certified Paleo, and Keto Certified, 12 Ounces.",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 34,
+"g": "Pantry",
+"item": "Cooking spray",
+"tier": "100% avocado oil",
+"unit": "5 oz",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value 100% avocado oil, 4.7 oz",
+"note": "",
+"p": 5.96,
+"q": 0.9400000000000001,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.34,
+"low": 6.34,
+"prev": 6.34,
+"title": "Great Value 100% Pure Avocado Oil Cooking Spray, 4.7 oz, Metal Bottle, Shelf Stable/ Ambient",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather avocado oil, 5 oz",
+"note": "",
+"p": 3.89,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.89,
+"low": 3.89
+},
+"C": {
+"k": "ok",
+"prod": "Chosen Foods, 2 × 13.5 oz",
+"note": "",
+"p": 14.99,
+"q": 5.4,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.78,
+"low": 2.78,
+"prev": 2.78,
+"title": "Chosen Foods Avocado Oil Spray, 13.5 oz, 2-count",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 avocado oil, 10 oz",
+"note": "",
+"p": 8.89,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.45,
+"low": 4.45,
+"store": "Whole Foods",
+"prev": 4.45,
+"title": "365 by Whole Foods Market Avocado Oil Spray Value, 10 FZ",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 35,
+"g": "Pantry",
+"item": "Crisp rice cereal (protein bars)",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "alt",
+"prod": "Great Value crisp rice, 24 oz",
+"note": "not organic",
+"p": 3.74,
+"q": 1.5,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.49,
+"low": 2.49,
+"prev": 2.49,
+"title": "Great Value Crisp Rice Breakfast Cereal, 24 oz",
+"was": null
+},
+"T": {
+"k": "alt",
+"prod": "Kellogg's Rice Krispies, 18 oz",
+"note": "not organic",
+"p": 5.29,
+"q": 1.125,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.7,
+"low": 4.7
+},
+"C": {
+"k": "none",
+"prod": "Not stocked",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "365 organic brown rice crisps, 12 oz",
+"note": "",
+"p": 3.69,
+"q": 0.75,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.92,
+"low": 4.92,
+"store": "Whole Foods",
+"prev": 4.92,
+"title": "365 by Whole Foods Market, Organic Brown Rice Crisps Cereal, 12 Ounce",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 36,
+"g": "Pantry",
+"item": "Quinoa flakes (oat swap)",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "none",
+"prod": "Not listed for 21201 this week",
+"note": ""
+},
+"T": {
+"k": "none",
+"prod": "Not carried",
+"note": ""
+},
+"C": {
+"k": "none",
+"prod": "Not carried (whole quinoa only)",
+"note": ""
+},
+"A": {
+"k": "ok",
+"prod": "Yupik organic, 2.2 lb",
+"note": "",
+"p": 15.74,
+"q": 2.2,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.15,
+"low": 7.15,
+"store": "Amazon",
+"prev": 7.15,
+"title": "Yupik, Organic White Quinoa Flakes, 2.2 lb (35.2 oz)",
+"was": null
+}
+},
+"best": [
+"A"
+]
+},
+{
+"id": 37,
+"g": "Pantry",
+"item": "Peanut butter powder",
+"tier": "no seed oil",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "PBfit, 30 oz · peanuts, coconut sugar, salt",
+"note": "",
+"p": 13.4,
+"q": 1.875,
+"est": false,
+"seen": "2026-10-03",
+"up": 7.15,
+"low": 7.15,
+"prev": 7.15,
+"title": "PBfit Classic Peanut Butter Powder, Powdered Peanut Spread from Real Roasted Pressed Peanuts, 8g of Protein, 30 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "PB2, 24 oz · peanuts, sugar, salt",
+"note": "",
+"p": 11.49,
+"q": 1.5,
+"est": false,
+"seen": "2026-09-28",
+"up": 7.66,
+"low": 7.66
+},
+"C": {
+"k": "ok",
+"prod": "PBfit organic, 30 oz",
+"note": "",
+"p": 14.39,
+"q": 1.875,
+"est": true,
+"seen": "2026-10-03",
+"up": 7.67,
+"low": 7.67,
+"prev": 7.67,
+"title": "PBfit Organic Peanut Butter Powder, 30 oz",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "PBfit organic, 30 oz",
+"note": "",
+"p": 16.39,
+"q": 1.875,
+"est": false,
+"seen": "2026-10-03",
+"up": 8.74,
+"low": 8.74,
+"store": "Amazon",
+"prev": 8.74,
+"title": "PBfit, Organic Peanut Butter Powder 30 Oz, Peanut Spread with 7g Protein",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 38,
+"g": "Produce",
+"item": "Baby spinach",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Marketside organic, 16 oz",
+"note": "",
+"p": 5.58,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.58,
+"low": 5.58,
+"prev": 5.58,
+"title": "Marketside Organic Fresh Baby Spinach, 16 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 16 oz",
+"note": "",
+"p": 5.59,
+"q": 1,
+"est": false,
+"seen": "2026-09-28",
+"up": 5.59,
+"low": 5.59
+},
+"C": {
+"k": "ok",
+"prod": "Organic baby spinach, 1 lb",
+"note": "",
+"p": 4.89,
+"q": 1,
+"est": true,
+"seen": "2026-10-03",
+"up": 4.89,
+"low": 4.89,
+"prev": 4.89,
+"title": "Organic Baby Spinach, 1 lb",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 16 oz",
+"note": "",
+"p": 6.29,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 6.29,
+"low": 6.29,
+"store": "Whole Foods",
+"prev": 6.29,
+"title": "365 by Whole Foods Market Organic Baby Spinach, 16 OZ",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 39,
+"g": "Produce",
+"item": "Russet potatoes",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Marketside organic, 3 lb",
+"note": "",
+"p": 6.88,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.29,
+"low": 2.29,
+"prev": 2.29,
+"title": "Marketside Fresh Organic Russet Potatoes, 3 lb Bag",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Organic russet, 3 lb",
+"note": "",
+"p": 2.99,
+"q": 3,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.0,
+"low": 1.0
+},
+"C": {
+"k": "alt",
+"prod": "Baking potatoes, 10 lb · not organic",
+"note": "not organic",
+"p": 5.89,
+"q": 10,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.59,
+"low": 0.59,
+"prev": 0.59,
+"title": "Baking Potatoes, 10 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Organic russet, 5 lb",
+"note": "",
+"p": 5.49,
+"q": 5,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.1,
+"low": 1.1,
+"store": "Whole Foods",
+"prev": 1.1,
+"title": "Potato Russet Bag Organic, 80 Ounce",
+"was": null
+}
+},
+"best": [
+"T"
+]
+},
+{
+"id": 40,
+"g": "Produce",
+"item": "Bell peppers",
+"tier": "organic",
+"unit": "each",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Organic, 2 ct",
+"note": "",
+"p": 3.46,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.73,
+"low": 1.73,
+"prev": 1.73,
+"title": "Fresh Organic Sweet Bell Peppers, 2 Count",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Organic rainbow, 2 ct",
+"note": "",
+"p": 3.69,
+"q": 2,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.85,
+"low": 1.85
+},
+"C": {
+"k": "alt",
+"prod": "Mixed peppers, 6 ct · not organic",
+"note": "not organic",
+"p": 4.99,
+"q": 6,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.83,
+"low": 0.83,
+"prev": 0.87,
+"title": "Mixed Bell Peppers, 6-count",
+"was": 6.2
+},
+"A": {
+"k": "ok",
+"prod": "Organic rainbow, 3 ct",
+"note": "",
+"p": 5.99,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.0,
+"low": 2.0,
+"store": "Whole Foods",
+"prev": 2.0,
+"title": "Organic Rainbow Pepper Bag, 3 Count",
+"was": null
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 41,
+"g": "Produce",
+"item": "Blueberries, frozen",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 10 oz",
+"note": "",
+"p": 3.22,
+"q": 0.625,
+"est": false,
+"seen": "2026-10-03",
+"up": 5.15,
+"low": 5.15,
+"prev": 5.15,
+"title": "Great Value Organic Frozen Blueberries, 10 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 32 oz",
+"note": "",
+"p": 11.99,
+"q": 2,
+"est": false,
+"seen": "2026-09-28",
+"up": 6.0,
+"low": 6.0
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, 3 lb",
+"note": "",
+"p": 8.99,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 3.0,
+"low": 3.0,
+"prev": 3.0,
+"title": "Kirkland Signature Organic Blueberries, 3 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 32 oz",
+"note": "",
+"p": 8.49,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 4.25,
+"low": 4.25,
+"store": "Whole Foods",
+"prev": 4.25,
+"title": "365 by Whole Foods Market, Organic Blueberries, 32 Ounce, (Frozen)",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 42,
+"g": "Produce",
+"item": "Sweet potatoes",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Organic, 3 lb",
+"note": "",
+"p": 5.62,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.87,
+"low": 1.87,
+"prev": 1.87,
+"title": "Fresh Organic Sweet Potatoes, 3 lb Bag",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Organic, 3 lb",
+"note": "",
+"p": 5.99,
+"q": 3,
+"est": false,
+"seen": "2026-09-28",
+"up": 2.0,
+"low": 2.0
+},
+"C": {
+"k": "alt",
+"prod": "Sweet potatoes, 5 lb · not organic",
+"note": "not organic",
+"p": 4.79,
+"q": 5,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.96,
+"low": 0.96,
+"prev": 0.96,
+"title": "Sweet Potatoes, 5 lbs 10 lb",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Organic Japanese sweet potato, per lb",
+"note": "",
+"p": 2.24,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 2.54,
+"low": 2.54,
+"store": "Whole Foods",
+"prev": 2.54,
+"title": "Organic Japanese Sweet Potato",
+"was": 3.49
+}
+},
+"best": [
+"W"
+]
+},
+{
+"id": 43,
+"g": "Produce",
+"item": "Yellow onions",
+"tier": "conventional is fine",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "3 lb bag",
+"note": "",
+"p": 2.94,
+"q": 3,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.98,
+"low": 0.98,
+"prev": 0.98,
+"title": "Fresh Yellow Onions, 3 lb Bag",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather, 3 lb",
+"note": "",
+"p": 2.99,
+"q": 3,
+"est": false,
+"seen": "2026-09-28",
+"up": 1.0,
+"low": 1.0
+},
+"C": {
+"k": "ok",
+"prod": "5 lb bag",
+"note": "",
+"p": 3.39,
+"q": 5,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.68,
+"low": 0.68,
+"prev": 0.8,
+"title": "Yellow Onions, 5 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Loose, per lb",
+"note": "",
+"p": 0.85,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.49,
+"low": 1.49,
+"store": "Whole Foods",
+"prev": 1.49,
+"title": "Onion Yellow Conventional, 1 Each",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 44,
+"g": "Produce",
+"item": "Bananas",
+"tier": "conventional is fine",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Per lb",
+"note": "",
+"p": 0.2,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.5,
+"low": 0.49,
+"prev": 0.49,
+"title": "Fresh Banana, Each",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Organic, 2 lb bag",
+"note": "",
+"p": 1.79,
+"q": 2,
+"est": false,
+"seen": "2026-09-28",
+"up": 0.9,
+"low": 0.9
+},
+"C": {
+"k": "ok",
+"prod": "3 lb",
+"note": "",
+"p": 1.49,
+"q": 3,
+"est": true,
+"seen": "2026-10-03",
+"up": 0.5,
+"low": 0.5,
+"prev": 0.5,
+"title": "Bananas, 3 lbs",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "Per lb",
+"note": "",
+"p": 0.18,
+"q": 1,
+"est": false,
+"seen": "2026-10-03",
+"up": 0.59,
+"low": 0.59,
+"store": "Whole Foods",
+"prev": 0.59,
+"title": "Banana Conventional, 1 Each",
+"was": null
+}
+},
+"best": [
+"W",
+"C"
+]
+},
+{
+"id": 45,
+"g": "Produce",
+"item": "Broccoli florets, frozen",
+"tier": "organic",
+"unit": "lb",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Great Value organic, 10 oz",
+"note": "",
+"p": 1.97,
+"q": 0.625,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.15,
+"low": 3.15,
+"prev": 3.15,
+"title": "Great Value Organic Frozen Broccoli Florets in Steamable Bag, 10 oz",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Good & Gather organic, 10 oz",
+"note": "",
+"p": 2.19,
+"q": 0.625,
+"est": false,
+"seen": "2026-09-28",
+"up": 3.5,
+"low": 3.5
+},
+"C": {
+"k": "ok",
+"prod": "Kirkland organic, 4 × 1 lb",
+"note": "",
+"p": 9.89,
+"q": 4,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.47,
+"low": 2.47,
+"prev": 2.47,
+"title": "Kirkland Signature Organic Broccoli Florets, 1 lb, 4-count 4 ct",
+"was": null
+},
+"A": {
+"k": "ok",
+"prod": "365 organic, 32 oz",
+"note": "",
+"p": 6.49,
+"q": 2,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.25,
+"low": 3.25,
+"store": "Whole Foods",
+"prev": 3.25,
+"title": "365 by Whole Foods Market, Organic Broccoli Florets, 32 Ounce",
+"was": null
+}
+},
+"best": [
+"C"
+]
+},
+{
+"id": 46,
+"g": "Kitchen",
+"item": "Glass meal-prep containers",
+"tier": "glass, lids included",
+"unit": "container",
+"cells": {
+"W": {
+"k": "ok",
+"prod": "Anchor Hocking 30-piece set — 15 containers, mixed sizes",
+"note": "",
+"p": 27.97,
+"q": 15,
+"est": false,
+"seen": "2026-10-03",
+"up": 1.86,
+"low": 1.86,
+"prev": 1.86,
+"title": "Anchor Hocking Glass Food Storage Containers with SnugFit Lids, 30 Piece Set",
+"was": null
+},
+"T": {
+"k": "ok",
+"prod": "Room Essentials 10-piece — 5 rectangles",
+"note": "",
+"p": 20.0,
+"q": 5,
+"est": false,
+"seen": "2026-09-28",
+"up": 4.0,
+"low": 4.0
+},
+"C": {
+"k": "ok",
+"prod": "Snapware Pyrex 18-piece — 9 containers",
+"note": "",
+"p": 19.99,
+"q": 9,
+"est": true,
+"seen": "2026-10-03",
+"up": 2.22,
+"low": 2.22,
+"prev": 2.22,
+"title": "Snapware Total Solutions 18-piece Pyrex Glass Food Storage Set",
+"was": 24.01
+},
+"A": {
+"k": "ok",
+"prod": "KOMUEE 10 × 30 oz",
+"note": "",
+"p": 39.59,
+"q": 10,
+"est": false,
+"seen": "2026-10-03",
+"up": 3.96,
+"low": 2.74,
+"store": "Amazon",
+"prev": 2.74,
+"title": "KOMUEE, 10 Packs 30 oz Glass Meal Prep Containers with Lids",
+"was": 43.99
+}
+},
+"best": [
+"W"
+]
+}
+],
+"deals": [
+{
+"row": 43,
+"item": "Yellow onions",
+"tier": "conventional is fine",
+"store": "C",
+"storeName": null,
+"prod": "5 lb bag",
+"kind": "ok",
+"up": 0.68,
+"before": 0.8,
+"unit": "lb",
+"why": "down 15% since the last check",
+"pct": 15
+},
+{
+"row": 2,
+"item": "Ground beef 85/15",
+"tier": "organic grass-fed",
+"store": "A",
+"storeName": null,
+"prod": "Organic Rancher 100% grass-fed, 1 lb",
+"kind": "ok",
+"up": 8.49,
+"before": 9.49,
+"unit": "lb",
+"why": "down 11% since the last check",
+"pct": 11
+},
+{
+"row": 6,
+"item": "Eggs, organic and pasture-raised",
+"tier": "organic + pasture",
+"store": "A",
+"storeName": null,
+"prod": "Pete & Gerry's organic pasture-raised, 12",
+"kind": "ok",
+"up": 0.56,
+"before": 0.56,
+"unit": "egg",
+"why": "on sale, was $7.49",
+"pct": 1
+},
+{
+"row": 42,
+"item": "Sweet potatoes",
+"tier": "organic",
+"store": "A",
+"storeName": null,
+"prod": "Organic Japanese sweet potato, per lb",
+"kind": "ok",
+"up": 2.54,
+"before": 2.54,
+"unit": "lb",
+"why": "on sale, was $3.49",
+"pct": 0
+},
+{
+"row": 46,
+"item": "Glass meal-prep containers",
+"tier": "glass, lids included",
+"store": "C",
+"storeName": null,
+"prod": "Snapware Pyrex 18-piece — 9 containers",
+"kind": "ok",
+"up": 2.22,
+"before": 2.22,
+"unit": "container",
+"why": "on sale, was $24.01",
+"pct": 0
+},
+{
+"row": 40,
+"item": "Bell peppers",
+"tier": "organic",
+"store": "C",
+"storeName": null,
+"prod": "Mixed peppers, 6 ct · not organic",
+"kind": "alt",
+"up": 0.83,
+"before": 0.87,
+"unit": "each",
+"why": "on sale, was $6.20",
+"pct": 4
+},
+{
+"row": 17,
+"item": "Cream cheese",
+"tier": "organic",
+"store": "C",
+"storeName": null,
+"prod": "Philadelphia spread, 48 oz",
+"kind": "alt",
+"up": 1.05,
+"before": 1.05,
+"unit": "8 oz",
+"why": "on sale, was $8.70",
+"pct": 0
+}
+],
+"match": [
+{
+"row": 7,
+"re": "egg whites?|liquid eggs?"
+},
+{
+"row": 5,
+"re": "\\beggs?\\b"
+},
+{
+"row": 0,
+"re": "chicken breast|breast tender|chicken tender"
+},
+{
+"row": 1,
+"re": "thigh"
+},
+{
+"row": 3,
+"re": "\\b9[0-6]\\s*/\\s*[0-9]+|lean ground beef"
+},
+{
+"row": 2,
+"re": "ground beef|beef mince"
+},
+{
+"row": 4,
+"re": "ground turkey"
+},
+{
+"row": 8,
+"re": "salmon"
+},
+{
+"row": 9,
+"re": "bacon"
+},
+{
+"row": 10,
+"re": "creatine"
+},
+{
+"row": 11,
+"re": "whey|protein powder"
+},
+{
+"row": 12,
+"re": "yogh?urt|skyr"
+},
+{
+"row": 13,
+"re": "cottage cheese"
+},
+{
+"row": 17,
+"re": "cream cheese"
+},
+{
+"row": 15,
+"re": "mozzarella"
+},
+{
+"row": 16,
+"re": "parmesan|parmigiano|\\bparm\\b"
+},
+{
+"row": 37,
+"re": "peanut butter powder|pbfit|pb2"
+},
+{
+"row": 23,
+"re": "peanut butter"
+},
+{
+"row": 18,
+"re": "(?<!peanut )(?<!almond )\\bbutter\\b"
+},
+{
+"row": 14,
+"re": "(?<!almond )(?<!coconut )(?<!evaporated )\\bmilk\\b"
+},
+{
+"row": 31,
+"re": "tortilla"
+},
+{
+"row": 35,
+"re": "crisp rice|rice krispies|puffed rice|rice cereal"
+},
+{
+"row": 19,
+"re": "jasmine|basmati|\\brice\\b"
+},
+{
+"row": 20,
+"re": "pasta|rigatoni|penne|rotini|orzo|fettuccine|elbow|spaghetti"
+},
+{
+"row": 21,
+"re": "\\bflour\\b"
+},
+{
+"row": 22,
+"re": "\\bchia\\b"
+},
+{
+"row": 24,
+"re": "olive oil"
+},
+{
+"row": 25,
+"re": "broth|\\bstock\\b"
+},
+{
+"row": 26,
+"re": "black beans|kidney beans|pinto"
+},
+{
+"row": 27,
+"re": "chickpea|garbanzo|chick pea"
+},
+{
+"row": 28,
+"re": "crushed tomato|diced tomato|tomato sauce|whole peeled|canned tomato|can of .*tomato"
+},
+{
+"row": 30,
+"re": "enchilada sauce"
+},
+{
+"row": 29,
+"re": "(?<!pop)\\bcorn\\b(?! ?(starch|flour|tortilla))"
+},
+{
+"row": 32,
+"re": "honey"
+},
+{
+"row": 33,
+"re": "\\bmayo"
+},
+{
+"row": 34,
+"re": "\\bspray\\b"
+},
+{
+"row": 36,
+"re": "quinoa flakes"
+},
+{
+"row": 38,
+"re": "spinach"
+},
+{
+"row": 42,
+"re": "sweet potato"
+},
+{
+"row": 39,
+"re": "potato"
+},
+{
+"row": 40,
+"re": "bell pepper|\\bpeppers\\b"
+},
+{
+"row": 41,
+"re": "blueberr"
+},
+{
+"row": 43,
+"re": "(?<!green )\\bonions?\\b(?! powder| granules)"
+},
+{
+"row": 44,
+"re": "banana"
+},
+{
+"row": 45,
+"re": "broccoli"
+}
+],
+"note": "Costco prices marked est are Instacart prices with Instacart's 24.4% markup removed.",
+"missed": [
+"Eggs, pasture-raised (Whole Foods, A)",
+"Pasta (Whole Foods, A)",
+"Sweet corn (Whole Foods, A)",
+"Creatine monohydrate (Orgain micronized, 1.48 lb (671 g), C)",
+"Cream cheese (Organic Valley organic, 8 oz, W)",
+"Jasmine rice (Great Value organic, 3 × 2 lb, W)"
+]
+}

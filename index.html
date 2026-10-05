@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Prep Book</title>
+<meta name="description" content="Recipes, week plan, shopping list and grocery prices, with a hands-free cook mode.">
+<meta name="theme-color" content="#F7F9FC" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0B1430" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Prep Book">
+<meta name="format-detection" content="telephone=no">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="favicon-64.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preload" href="bricolage.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main id="view" aria-live="polite"><div class="empty"><h2>Prep Book</h2><p>Loading your recipes.</p></div></main>
+<div id="timerbar" class="timerbar hidden" role="status"></div>
+<nav id="nav" class="tabs" aria-label="Sections"></nav>
+<div id="cook" class="cook hidden" role="dialog" aria-label="Cook mode"></div>
+<div id="toast" class="toast" role="status"></div>
+<script src="app.js"></script>
+</body>
+</html>
